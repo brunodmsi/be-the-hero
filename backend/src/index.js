@@ -1,7 +1,9 @@
 const express = require('express');
+const routes = require('./routes');
 
 const app = express();
 
-app.get('/', (req, res) => res.json({ message: 'Hello Omnistack' }));
+app.use(express.json());
+app.use(routes);
 
 app.listen(8080, () => console.log('Rodando na porta 8080'));
