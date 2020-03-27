@@ -42,16 +42,8 @@ export const Content = styled.div`
     width: 100%;
     max-width: 450px;
 
-    input {
+    input, textarea {
       margin-top: 8px;
-    }
-
-    > div {
-      display: flex;
-
-      input + input {
-        margin-left: 8px;
-      }
     }
   }
 `;

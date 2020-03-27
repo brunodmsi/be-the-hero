@@ -33,6 +33,18 @@ export default createGlobalStyle`
       border-radius: 8px;
       padding: 0 24px;
     }
+
+    textarea {
+      width: 100%;
+      height: 60px;
+      min-height: 140px;
+      color: #333;
+      border: 1px solid #dcdce6;
+      border-radius: 8px;
+      padding: 16px 24px;
+      line-height: 24px;
+      resize: vertical;
+    }
   }
 
   .customButton {
