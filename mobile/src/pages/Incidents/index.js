@@ -1,6 +1,6 @@
 import React from 'react';
 import { Image, FlatList } from 'react-native';
-import { useNavigation, useNavigationBuilder } from '@react-navigation/native';
+import { useNavigation } from '@react-navigation/native';
 
 import { Feather } from '@expo/vector-icons';
 
