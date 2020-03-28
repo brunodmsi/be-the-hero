@@ -22,6 +22,10 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+<p align="center">
+  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fgithub.com%2Fbrunodmsi%2Fsemana-omnistack-11%2Ftree%2Fmaster%2Fassets%2Fbethehero-insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
 ## 🤔 O que é?
 Be The Hero é um projeto com o objetivo de facilitar a conexão entre pessoas e ONGs.
 Existe um grave problema de conseguir um canal de fácil acesso para esses dois se ajudarem,
