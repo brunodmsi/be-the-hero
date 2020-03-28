@@ -6,7 +6,8 @@
   "private": true,
   "workspaces": [
     "backend",
-    "frontend"
+    "frontend",
+    "mobile"
   ],
   "devDependencies": {
     "cz-conventional-changelog": "^3.1.0",

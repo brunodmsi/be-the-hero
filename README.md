@@ -19,11 +19,13 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/brunodmsi/semana-omnistack-11">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <a href="https://github.com/brunodmsi/semana-omnistack-11/blob/master/LICENSE">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fgithub.com%2Fbrunodmsi%2Fsemana-omnistack-11%2Ftree%2Fmaster%2Fassets%2Fbethehero-insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fbrunodmsi%2Fsemana-omnistack-11%2Fmaster%2Fassets%2Fbethehero-insomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 ## 🤔 O que é?
